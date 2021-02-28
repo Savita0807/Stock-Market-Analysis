@@ -1,4 +1,4 @@
-# VBA-Challange
+# Stock-Market-Analysis VBA-Challange
 
 In this homework assignment is to use VBA scripting to analyze real stock market data.
 
